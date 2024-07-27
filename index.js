@@ -1,4 +1,4 @@
-let currentUser = 'John Doe';
-let welcomeMessage = `Welcome to Flatbook, ${currentUser}!`;
-let excitedWelcomeMessage = `WELCOME TO FLATBOOK, ${currentUser.toUpperCase()}!`;
+let currentUser = 'Grace';
+let welcomeMessage = `Welcome, ${currentUser}!`;
+let excitedWelcomeMessage = `WELCOME, ${currentUser.toUpperCase()}!`;
 let shortGreeting = `Welcome, ${currentUser[0]}!`;
